@@ -1,0 +1,15 @@
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\bin\Debug\net8.0\ObjetosApp.exe
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\bin\Debug\net8.0\ObjetosApp.deps.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\bin\Debug\net8.0\ObjetosApp.runtimeconfig.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\bin\Debug\net8.0\ObjetosApp.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\bin\Debug\net8.0\ObjetosApp.pdb
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.AssemblyInfo.cs
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.sourcelink.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\refint\ObjetosApp.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.pdb
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ObjetosApp.genruntimeconfig.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\ObjetosApp\obj\Debug\net8.0\ref\ObjetosApp.dll
