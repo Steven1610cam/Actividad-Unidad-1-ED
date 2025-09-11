@@ -1,0 +1,15 @@
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\bin\Debug\net8.0\RecordsApp.exe
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\bin\Debug\net8.0\RecordsApp.deps.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\bin\Debug\net8.0\RecordsApp.runtimeconfig.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\bin\Debug\net8.0\RecordsApp.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\bin\Debug\net8.0\RecordsApp.pdb
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.AssemblyInfo.cs
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.sourcelink.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\refint\RecordsApp.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.pdb
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\RecordsApp.genruntimeconfig.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\CSharp\RecordsApp\obj\Debug\net8.0\ref\RecordsApp.dll
