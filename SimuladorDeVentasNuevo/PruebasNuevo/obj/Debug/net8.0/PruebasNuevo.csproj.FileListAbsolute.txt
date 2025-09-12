@@ -1,0 +1,15 @@
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.AssemblyInfo.cs
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.sourcelink.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\bin\Debug\net8.0\PruebasNuevo.exe
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\bin\Debug\net8.0\PruebasNuevo.deps.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\bin\Debug\net8.0\PruebasNuevo.runtimeconfig.json
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\bin\Debug\net8.0\PruebasNuevo.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\bin\Debug\net8.0\PruebasNuevo.pdb
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\refint\PruebasNuevo.dll
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.pdb
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\PruebasNuevo.genruntimeconfig.cache
+C:\Users\Steven\Documents\VS-UDEC\ActividadUnidad1-ED\SimuladorDeVentasNuevo\PruebasNuevo\obj\Debug\net8.0\ref\PruebasNuevo.dll
